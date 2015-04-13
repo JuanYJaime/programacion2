@@ -23,7 +23,7 @@ public class TestCalendar {
 		switch(opcion){
 		case 1:
 			
-			System.out.println(calendar.getFirstDayOfWeek());
+			System.out.println(calendar.getInstance());
 		}
 	}
 }
