@@ -24,6 +24,7 @@ public class TestCalendar {
 		case 1:
 			
 			System.out.println(calendar.getInstance());
+			System.out.println("adios");
 		}
 	}
 }
